@@ -1,2 +1,2 @@
-# coffee-art
+# Coffee-art
 Project to automate coffee cafe
